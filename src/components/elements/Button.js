@@ -11,7 +11,6 @@ const propTypes = {
   wideMobile: PropTypes.bool,
   disabled: PropTypes.bool
 }
-
 const defaultProps = {
   tag: 'button',
   color: '',
